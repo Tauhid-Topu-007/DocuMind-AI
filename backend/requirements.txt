@@ -1,0 +1,14 @@
+# Production / Render dependencies (Groq + Qdrant Cloud + MongoDB Atlas + FastEmbed)
+fastapi>=0.115
+uvicorn[standard]>=0.32
+pydantic>=2.9
+pydantic-settings>=2.6
+python-multipart>=0.0.12
+httpx>=0.27
+pymupdf>=1.24.3
+trafilatura>=1.12
+beautifulsoup4>=4.12
+pymongo>=4.10
+certifi
+qdrant-client>=1.12
+fastembed>=0.4

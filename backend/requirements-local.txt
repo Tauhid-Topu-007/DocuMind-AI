@@ -1,0 +1,4 @@
+# Local development: everything in requirements.txt + ChromaDB
+-r requirements.txt
+chromadb>=0.5
+pytest>=8
