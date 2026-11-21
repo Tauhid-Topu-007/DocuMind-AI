@@ -1,5 +1,8 @@
 # DocuMind AI
 
+![Alt text describing the image](image.png)
+
+
 AI-powered PDF & website question-answering assistant using Retrieval-Augmented Generation (RAG).
 Upload PDFs, add website URLs, ask questions in natural language, get answers with real source citations.
 
