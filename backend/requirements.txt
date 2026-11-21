@@ -12,3 +12,5 @@ pymongo>=4.10
 certifi
 qdrant-client>=1.12
 fastembed>=0.4
+chromadb>=0.5
+pytest>=8
